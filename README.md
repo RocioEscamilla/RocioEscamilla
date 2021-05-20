@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @RocioEscamilla
+👋 Hi, I’m @RocioEscamilla
   -  
 
 - 👀 I’m interested in learning more about **Data Analytics** and specializing in **Data Visualization**
